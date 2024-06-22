@@ -30,7 +30,7 @@ Perhaps: toss creatine into matcha
 
 https://ikokusovereignty.github.io/Syllogimous-v3/
 
-Elevate
+Elevate (my favorite)
 
 Peak
 
@@ -46,9 +46,11 @@ pebblekb
 
 https://github.com/aqxiy/pebblekb
 
-paramRem 
+paramRem aka paru
 
 https://github.com/aqxiy/paramrem
+
+https://github.com/aqxiy/paru
 
 linkptr world entity relationship mapping
 
