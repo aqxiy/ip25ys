@@ -58,6 +58,8 @@ thefirmdoubleloopknot
 
 https://github.com/aqxiy/thefirmdoubleloopknot
 
-https://wais-iv-symbol-search-f568d4.netlify.app/ with or without music, normal or paramRemed 
+https://github.com/aqxiy/speechtherapy
+
+https://cognitivemetrics.co/CAIT_SS/ with or without music, normal or paramRemed 
 
 ### Brief about me: 36 ACT [June 2015], 800 Math ii Level 2 [June 2015], 162 / 165 IQ cogniDNA 
