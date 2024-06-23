@@ -1,5 +1,6 @@
 # ip25ys
-Int Prototypical 25 Yang Silk 
+### Int Prototypical 25 Yang Silk 
+### Best applied to recovery from brain malwiring, whatever the source
 
 
 ## Supplements and brain fitness for healthy eternity:
