@@ -49,11 +49,9 @@ pebblekb
 
 https://github.com/aqxiy/pebblekb
 
-paramRem aka paru
+paramRem
 
 https://github.com/aqxiy/paramrem
-
-https://github.com/aqxiy/paru
 
 linkptr world entity relationship mapping
 
